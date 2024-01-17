@@ -1,20 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Meera Dukare</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
+<h4 align="center">I'm a passionate Full Stack Web developer skilled in REACT who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
 
-🌍 I'm based in Delhi, India
+🌍 I'm based in Pune, India
 
-⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
+⚛️ Some technologies that I love to working with includes React, Typescript & Web Designing.
 
-🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
+🚀 I have learned CSS, HTML, Javascript, DOM, React etc.
 
-😃 My interest includes Cybersecurity & Blockchain technology.
+😃 My interest includes Web Designing & Problem solving.
 
-📧 Email - huzaifasheikh7860123@gmail.com
+📧 Email - meeravishalg7@gmail.com
 
-💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
+💼 Portfolio - (https://portfolio-taiyaki-bcbe5e.netlify.app/)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-sheikh-0974a5236/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meera-dukare-338418288/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@huzaifasheikh7860123)
 
 # 💻 Tech Stack
